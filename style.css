@@ -35,8 +35,8 @@ body {
 .menu_section {
     display: flex;
     align-items: center;
+   
 }
-
 .menu_section.left .menu_icon{
     padding: 12px 16px;
 }
